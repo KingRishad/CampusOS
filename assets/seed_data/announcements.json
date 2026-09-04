@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ann-1",
+    "title": "CSE321 Class Rescheduled",
+    "body": "CSE321 class today has been moved to Room 304 at 2:00 PM due to maintenance in Room 101.",
+    "date": "Today, 08:30 AM",
+    "priority": "High"
+  },
+  {
+    "id": "ann-2",
+    "title": "Midterm Exam Schedule Released",
+    "body": "The official midterm examination schedule for Spring 2026 is now available on the student portal.",
+    "date": "Yesterday",
+    "priority": "High"
+  },
+  {
+    "id": "ann-3",
+    "title": "Library Extended Hours for Finals",
+    "body": "The main library will remain open until 11:00 PM every weekday starting next Monday.",
+    "date": "2 days ago",
+    "priority": "Medium"
+  },
+  {
+    "id": "ann-4",
+    "title": "Campus Wi-Fi Maintenance",
+    "body": "Scheduled network maintenance will take place tonight between 12:00 AM and 02:00 AM.",
+    "date": "3 days ago",
+    "priority": "Low"
+  }
+]

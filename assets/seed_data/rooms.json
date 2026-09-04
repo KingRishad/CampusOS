@@ -1,0 +1,47 @@
+[
+  {
+    "id": "room-101",
+    "room_number": "Room 101",
+    "capacity": 40,
+    "equipment": ["Projector", "Whiteboard", "AC"],
+    "is_booked": false,
+    "booked_by": null,
+    "booking_time": null
+  },
+  {
+    "id": "room-202",
+    "room_number": "Room 202",
+    "capacity": 25,
+    "equipment": ["Whiteboard", "AC"],
+    "is_booked": false,
+    "booked_by": null,
+    "booking_time": null
+  },
+  {
+    "id": "room-302",
+    "room_number": "Room 302",
+    "capacity": 15,
+    "equipment": ["Projector", "TV Screen", "AC"],
+    "is_booked": false,
+    "booked_by": null,
+    "booking_time": null
+  },
+  {
+    "id": "room-304",
+    "room_number": "Room 304",
+    "capacity": 50,
+    "equipment": ["Projector", "Sound System", "AC", "Smart Board"],
+    "is_booked": false,
+    "booked_by": null,
+    "booking_time": null
+  },
+  {
+    "id": "lab-3",
+    "room_number": "Lab 3",
+    "capacity": 30,
+    "equipment": ["Computers", "Projector", "AC"],
+    "is_booked": true,
+    "booked_by": "Robotics Club",
+    "booking_time": "Today 02:00 PM - 05:00 PM"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sched-1",
+    "course": "CSE321",
+    "time": "09:00 AM - 10:30 AM",
+    "room": "Room 101",
+    "day": "Today",
+    "instructor": "Dr. Alan Turing"
+  },
+  {
+    "id": "sched-2",
+    "course": "CSE410",
+    "time": "11:00 AM - 12:30 PM",
+    "room": "Lab 3",
+    "day": "Today",
+    "instructor": "Prof. Ada Lovelace"
+  },
+  {
+    "id": "sched-3",
+    "course": "CSE220",
+    "time": "02:00 PM - 03:30 PM",
+    "room": "Room 304",
+    "day": "Today",
+    "instructor": "Dr. John von Neumann"
+  },
+  {
+    "id": "sched-4",
+    "course": "MAT101",
+    "time": "10:00 AM - 11:30 AM",
+    "room": "Hall B",
+    "day": "Tomorrow",
+    "instructor": "Prof. Carl Gauss"
+  },
+  {
+    "id": "sched-5",
+    "course": "CSE330",
+    "time": "01:00 PM - 02:30 PM",
+    "room": "Room 202",
+    "day": "Tomorrow",
+    "instructor": "Dr. Claude Shannon"
+  }
+]

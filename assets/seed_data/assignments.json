@@ -1,0 +1,30 @@
+[
+  {
+    "id": "assign-1",
+    "course": "CSE321",
+    "title": "Operating Systems Process Synchronization Lab",
+    "deadline": "Today, 11:59 PM",
+    "status": "Pending"
+  },
+  {
+    "id": "assign-2",
+    "course": "CSE410",
+    "title": "Machine Learning Model Evaluation Report",
+    "deadline": "Tomorrow, 05:00 PM",
+    "status": "Pending"
+  },
+  {
+    "id": "assign-3",
+    "course": "MAT101",
+    "title": "Linear Algebra Problem Set 4",
+    "deadline": "In 3 Days",
+    "status": "Submitted"
+  },
+  {
+    "id": "assign-4",
+    "course": "CSE220",
+    "title": "Data Structures BST Implementation",
+    "deadline": "Completed",
+    "status": "Completed"
+  }
+]

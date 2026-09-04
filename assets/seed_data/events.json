@@ -1,0 +1,46 @@
+[
+  {
+    "id": "event-1",
+    "name": "AI Workshop: Build Agents with Flutter",
+    "date": "Today",
+    "time": "01:00 PM - 02:30 PM",
+    "capacity": 60,
+    "registered_count": 42,
+    "is_registered": false,
+    "location": "Auditorium A",
+    "description": "Hands-on session building intelligent autonomous agents and tool integrations."
+  },
+  {
+    "id": "event-2",
+    "name": "Debating Society Championship",
+    "date": "Today",
+    "time": "03:00 PM - 05:00 PM",
+    "capacity": 100,
+    "registered_count": 85,
+    "is_registered": true,
+    "location": "Conference Hall B",
+    "description": "Annual inter-departmental debate tournament featuring top campus speakers."
+  },
+  {
+    "id": "event-3",
+    "name": "Tech Career Fair 2026",
+    "date": "Tomorrow",
+    "time": "10:00 AM - 04:00 PM",
+    "capacity": 200,
+    "registered_count": 140,
+    "is_registered": false,
+    "location": "Student Plaza",
+    "description": "Connect with top software companies, startups, and university recruiters."
+  },
+  {
+    "id": "event-4",
+    "name": "Sports Club Table Tennis Clash",
+    "date": "Tomorrow",
+    "time": "04:30 PM - 07:00 PM",
+    "capacity": 30,
+    "registered_count": 28,
+    "is_registered": false,
+    "location": "Indoor Gymnasium",
+    "description": "Knockout table tennis tournament open to all undergraduate and masters students."
+  }
+]
